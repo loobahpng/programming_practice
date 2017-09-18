@@ -5,8 +5,8 @@ int main(){
     string input; 
     cin>>input;
     while (input!="*"){
-        int correct=0;
-        int duration=0;
+        int correct=0; //number of measures with correct duration
+        int duration=0; //make full duration 64
         for (int i=0;i<input.size();i++){
             if (i==0) continue;
             if (input[i]=='W') duration=duration+64; 
