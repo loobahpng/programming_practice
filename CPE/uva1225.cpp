@@ -1,3 +1,4 @@
+// 2017/05/23 Q1 1225: Digit Counting
 #include <iostream>
 using namespace std;
 int main(){

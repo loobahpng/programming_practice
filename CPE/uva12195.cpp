@@ -1,3 +1,4 @@
+// 2017/05/23 Q2 12195: Jingle Composing
 #include <iostream>
 #include <string>
 using namespace std;
