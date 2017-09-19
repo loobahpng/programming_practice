@@ -1,6 +1,10 @@
 # programming practice
 
- /CPE: Collegiate Programming Examination 大學程式能力檢定 solutions
+## /CPE 
 
- /leetcode: leetcode solutions
+Solutions to CPE (Collegiate Programming Examination, 大學程式能力檢定)
+
+## /leetcode: 
+
+Solutions to LeetCode problems
 
